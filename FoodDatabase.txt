@@ -1,0 +1,97 @@
+11
+Classic Hamburger
+Applewood Bacon, Lettuce, Tomato, House Sauce
+Burgers
+6.25
+550
+You can never go wrong with this one!
+36
+3.50
+Cheeseburger
+Applewood Bacon, Lettuce, Tomato, Cheese Slice, House Sauce
+Burgers
+6.50
+565
+Just like the classic, but with some cheesiness.
+36
+3.75
+Mushroom Burger
+Applewood Bacon, Lettuce, Tomato, Exploding Cheese-Filled Mushroom, House Sauce
+Burgers
+8.00
+600
+An eventful explosion awaits your mouth.
+42
+4.50
+Chicken Burger
+Applewood Bacon, Lettuce Tomato, House Sauce
+Burgers
+8.00
+620
+A popular choice!
+32
+4.50
+Classic Hotdog
+Applewood Bacon, House sauce
+Hotdogs
+4.50
+300
+Everything you expect in a hotdog, perfected.
+28
+2.75
+Chicken Dog
+Applewood Bacon, House sauce
+Hotdogs
+5.50
+310
+Some say it's better than a classic dog!?!
+27
+3.80
+Curly Fries
+PEI Potatoes
+Fries
+2.50
+210
+Just like the usual fries, but curly.
+53
+1.00
+Poutine
+PEI Potatoes, House Gravy, Quebec Curds
+Fries
+3.75
+285
+Made with Quebec cheese curds!
+40
+1.35
+Lemonade
+Lemons, Water, Sugar
+Drinks
+2.50
+185
+Freshly squeezed everyday!
+85
+0.85
+Vanilla Milkshake
+Vanilla Ice Cream, Milk
+Drinks
+4.85
+185
+Our most popular drink!
+120
+2.95
+Fountain Soda
+Water, Sugar, Flavouring
+Drinks
+1.75
+120
+Unlimited refills! Sprite, Pepsi, Fanta, or Coca Cola.
+300
+0.35
+
+
+
+
+
+
+
+
